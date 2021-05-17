@@ -1,0 +1,34 @@
+CodeBook:
+
+objects for original files - descriptions as the original descriptions
+
+x_train 
+y_train 
+subject_train
+x_test 
+y_test 
+subject_test 
+features 
+activityLabels
+
+Merged dataset objects
+mrg_train
+mrg_test
+part_1 (overall merged data)
+
+colNames (colnames of merged data)
+
+mean_std (extraction of needed data labels)
+
+Part_2 (final extraction of needed data)
+
+part_3 (data with good labels)
+
+
+part_5 (data manipulation to cast and remove NA from dataset)
+
+Sec_Set (final tidy data)
+
+
+
+
